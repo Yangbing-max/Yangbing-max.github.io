@@ -22,7 +22,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact me
 
 QQ：2718854183
+
 Wechat：Robin_Y70
+
 Phone: emmmm When you add my wechat, you will know my mobile phone number~
 
 ### Best wishes
