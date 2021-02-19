@@ -17,7 +17,7 @@ Body shape：186cm 70kg
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)Although there is nothing23333.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)Although there is nothing about me 23333.
 
 ### Contact me
 
@@ -29,5 +29,5 @@ Phone: emmmm When you add my wechat, you will know my mobile phone number~
 
 ### Best wishes
 
- I will continue to improve my personal page in my spare time, there will be surprise~      
+ I will continue to improve my personal page in my spare time, there will be surprise~    
  It's not what we do once in a while that shapes our lives, it's what we do consistently!
