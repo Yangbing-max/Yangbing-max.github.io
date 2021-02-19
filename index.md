@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Yangbing's  Web Pages！
 
-You can use the [editor on GitHub](https://github.com/Yangbing-max/Yangbing-max.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have just started to contact with the construction of my web page, and still need to continue to build, the follow-up wonderful content will be presented in this web page!
+### Brief introduction
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Name：Yangbing；Robin
 
-- Bulleted
-- List
+Gender：male
 
-1. Numbered
-2. List
+Birth：2000-10-12
 
-**Bold** and _Italic_ and `Code` text
+Education level：Undergraduate college
 
-[Link](url) and ![Image](src)
+Body shape：186cm 70kg
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)Although there is nothing23333.
 
-### Jekyll Themes
+### Contact me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yangbing-max/Yangbing-max.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+QQ：2718854183
+Wechat：Robin_Y70
+Phone: emmmm When you add my wechat, you will know my mobile phone number~
 
-### Support or Contact
+### Best wishes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I will continue to improve my personal page in my spare time, there will be surprise~
+It's not what we do once in a while that shapes our lives, it's what we do consistently!
