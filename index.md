@@ -29,5 +29,5 @@ Phone: emmmm When you add my wechat, you will know my mobile phone number~
 
 ### Best wishes
 
-I will continue to improve my personal page in my spare time, there will be surprise~    
-It's not what we do once in a while that shapes our lives, it's what we do consistently!
+ I will continue to improve my personal page in my spare time, there will be surprise~     
+ It's not what we do once in a while that shapes our lives, it's what we do consistently!
