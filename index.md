@@ -21,13 +21,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact me
 
-QQ：2718854183
+QQ：2718854183  
 
-Wechat：Robin_Y70
+Wechat：Robin_Y70   
 
 Phone: emmmm When you add my wechat, you will know my mobile phone number~
 
 ### Best wishes
 
-I will continue to improve my personal page in my spare time, there will be surprise~
+I will continue to improve my personal page in my spare time, there will be surprise~    
 It's not what we do once in a while that shapes our lives, it's what we do consistently!
