@@ -7,7 +7,7 @@ I have just started to contact with the construction of my web page, and still n
 
 Name：Yangbing；Robin
 
-Gender：male
+Gender：Male
 
 Birth：2000-10-12
 
